@@ -8,5 +8,5 @@ data class Todo(
     @PrimaryKey(autoGenerate = true)
     val id: Int = 0,
     val task: String,
-    val isPriority: Boolean
+    val isImportant: Boolean
 )
