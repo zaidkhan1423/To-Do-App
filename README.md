@@ -11,6 +11,10 @@
 ### Clean Architecture: The app architecture is designed based on Clean Architecture principles, promoting separation of concerns, testability, and maintainability.
 
 ## Screenshots
+<img src="https://github.com/zaidkhan1423/To-Do-App/assets/68557395/293c882b-09af-4c64-9ae7-61d1c80068ca" width="200" alt="Screenshot 1">
+<img src="https://github.com/zaidkhan1423/To-Do-App/assets/68557395/3627b613-9636-46d5-a1ee-7eaeb74b7fe7" width="200" alt="Screenshot 2">
+<img src="https://github.com/zaidkhan1423/To-Do-App/assets/68557395/c3c9fd34-7f4a-4e36-9857-3ab0d69ed44f" width="200" alt="Screenshot 3">
+<img src="https://github.com/zaidkhan1423/To-Do-App/assets/68557395/f75b39d1-b7fa-4d41-a835-43f35319ed35" width="200" alt="Screenshot 4">
 
 
 # Libraries Used
